@@ -2,7 +2,7 @@
 A collection of civic tech resources: APIs, Libraries, etc.
 
 ####[City Of Boston on Github](https://github.com/CityOfBoston)
-####[Harvard Center for Civic Media on Github](https://github.com/c4fcm)
+####[MIT Center for Civic Media on Github](https://github.com/c4fcm)
 ####[Knight Lab on Github](https://github.com/NUKnightLab)
 
 ##APIs:
